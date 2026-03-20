@@ -3,8 +3,8 @@ import React from 'react'
 const Navbar = () => {
   return (
     <>
-    <div className='flex  text-white pr-16 font-bold items-center justify-around py-10   '>
-        <div className='h-[8vh]'>
+    <div className='flex  text-white pr-16 font-bold items-center justify-around py-8   '>
+        <div className='h-[7vh]'>
             <img className='h-full'
             src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/static-assets/images/swiggy_logo_white.png" alt="" />
         </div>
